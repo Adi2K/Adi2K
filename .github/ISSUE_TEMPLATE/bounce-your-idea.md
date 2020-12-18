@@ -1,6 +1,6 @@
 ---
 name: Bounce Your Idea
-about: Suggest an idea for this project
+about: Lets take over the world?
 title: ''
 labels: ''
 assignees: ''
