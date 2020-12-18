@@ -12,7 +12,7 @@
 </div>
 
 <h2 align="center">Hello! नमस्ते! Hola! Bonjur! こんにちは! </h2>
-<h2 align="center">Adi2K here!</h2>
+<h3 align="center">Adi2K here!</h3>
 <p align="center">I am a 2nd Year undergrad student at International Institute Of Information Technology, Hyderabad. I am interested in Data Analytics, Competitive Programming, CLI Tools development, Machine Learning....... I am currently working on some personal projects but feel free to open a PR if you want to collaborate on any ideas or would be interested in helping out in one of mine. Lets talk !</p>
 
 <p align='center'>
