@@ -1,0 +1,17 @@
+---
+name: Bounce Your Idea
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Do you think your Project is Awesome? Please describe.**
+A clear and concise description of what the Project is. Ex. I'm planning to solve world hunger by  [...] XD
+
+**Describe the help I could provide **
+A clear and concise description of what you want me to do ! Ex. make a meme quality checker app[...] XD.
+
+**Additional context**
+Add any other context or screenshots about the idea.
