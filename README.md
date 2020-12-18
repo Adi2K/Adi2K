@@ -1,9 +1,9 @@
 <h1 align="center">Aditya Kadam<img src="https://github.com/Adi2K/Adi2K/blob/main/assets/waving_hand.gif" width="25px"></h1>
 
 <p align='center'>
- <a href="https://www.instagram.com/adi._kadam/"><img height="30" src="https://github.com/Adi2K/Adi2K/blob/main/assets/IG.gif"></a>&nbsp;&nbsp;
- <a href="https://twitter.com/Aditya__Kadam"><img height="30" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Twitter.gif"></a>&nbsp;&nbsp;
- <a href="https://www.facebook.com/people/Aditya-Kadam/100053258109957"><img height="30" src="https://github.com/Adi2K/Adi2K/blob/main/assets/FB.gif"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/adi._kadam/"><img height="30" src="https://github.com/Adi2K/Adi2K/blob/main/assets/IG.gif" width="30px"></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/Aditya__Kadam"><img height="30" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Twitter.gif" width="30px"></a>&nbsp;&nbsp;
+ <a href="https://www.facebook.com/people/Aditya-Kadam/100053258109957"><img height="30" src="https://github.com/Adi2K/Adi2K/blob/main/assets/FB.gif" width="30px"></a>&nbsp;&nbsp;
 </p>
 <div align='center'>
  
