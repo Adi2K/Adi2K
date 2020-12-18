@@ -1,7 +1,7 @@
 <h1 align="center">Aditya Kadam</h1>
 
 <p align='center'>
- <a href="https://www.instagram.com/adi._kadam/"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Finstagram-logo_87390&psig=AOvVaw0CsltM_Wl5VqnuljcyEHmH&ust=1608361863900000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjK0f781u0CFQAAAAAdAAAAABAO"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/adi._kadam/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Aditya__Kadam"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 <div align='center'>
