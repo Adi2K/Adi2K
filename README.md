@@ -1,4 +1,4 @@
-###Adi2K
+<h2 align="center">Aditya Kadam</h2>
 
 <p align='center'>
  <a href="https://www.instagram.com/adi._kadam/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
