@@ -20,9 +20,7 @@
  </p>
 
 <p>I am an avid gamer (mostly FPS). I usually jam to music in my free time or bingewatch movies or read novels </p>
-<p align='center'>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adi2K&layout=compact">
-</p>
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * **🌱 I’m currently learning** Front-end developement, Competitive Programming
 * **👯 I’m looking to collaborate on** Data Analytics, Web-Scrapping, Simulations(preferably in C++ or Python)
