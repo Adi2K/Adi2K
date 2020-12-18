@@ -26,5 +26,6 @@ I usually jam to music in my free time or bingewatch movies or read novels </p>
 
 ### My Github Stats
  ![Adi2K's github stats](https://github-readme-stats.vercel.app/api?username=Adi2K&count_private=true)
+ <h2 align="center">Bye! Chao! au revoir! Sayōnara! </h2>
  </div>
  
