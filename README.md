@@ -20,6 +20,9 @@
  </p>
 
 <p>I am an avid gamer (mostly FPS). I usually jam to music in my free time or bingewatch movies or read novels </p>
+<div align='center' markdown="1">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+ </div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * **🌱 I’m currently learning** Front-end developement, Competitive Programming
