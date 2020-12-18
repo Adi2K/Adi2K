@@ -21,7 +21,7 @@
 <p>I am an avid gamer (mostly FPS). I usually jam to music in my free time or bingewatch movies or read novels </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* **🌱 I’m currently learning** Front-end developement, Competitive Coding
+* **🌱 I’m currently learning** Front-end developement, Competitive Programming
 * **👯 I’m looking to collaborate on** Data Analytics, Web-Scrapping, Simulations(preferably in C++ or Python)
 * **💬 Ask me about** Web-Scrapping, Social Media APIs, basics of Linux!
 * **⚡ Fun fact** Burger King is better than McDonalds ..... Nah! Just kiddin
