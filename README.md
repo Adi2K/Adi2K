@@ -36,8 +36,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="center">Project Quick Peek ! </h2>
-<p float='left'>
+<p float='right'>
  <a href="https://github.com/Adi2K/CrackNinja"><h3>CrackNinja</h3></a>
+ <p>A CLI tool for acessing<a href="https://crackwatch.com/">Crackwatch</a>and scraping data</p>
  <a href="https://github.com/Adi2K/CrackNinja"><img height="350px" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Projects/CrackNinja.gif" width="350px"></a>&nbsp;&nbsp;
 </p>
 
