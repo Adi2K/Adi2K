@@ -35,6 +35,11 @@
 * **⚡ Fun fact** Burger King is better than McDonalds ..... Nah! Just kiddin
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h2 align="center">Hello! नमस्ते! Hola! Bonjur! こんにちは! </h2>
+<p align='center'>
+ <a href="https://github.com/Adi2K/CrackNinja"><img height="350px" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Projects/CrackNinja.gif" width="350px"></a>&nbsp;&nbsp;
+ </p>
+
 <div align='center' markdown="1">
 
 ### My Github Stats
