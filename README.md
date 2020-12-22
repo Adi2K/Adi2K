@@ -38,7 +38,7 @@
 <h2 align="center">Project Quick Peek ! </h2>
 
 <p align='left'>
-<a href="https://github.com/Adi2K/CrackNinja">CrackNinja</a>
+<h3><a href="https://github.com/Adi2K/CrackNinja">CrackNinja</a></h3>
 <p>A CLI tool for scraping data off <a href="https://crackwatch.com/">CrackWatch</a></p>
 <a href="https://github.com/Adi2K/CrackNinja"><img height="700px" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Projects/CrackNinja.gif" width="700px"></a>&nbsp;&nbsp;
 </p>
