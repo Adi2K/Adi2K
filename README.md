@@ -40,7 +40,7 @@
 <p align='left'>
 <h3><a href="https://github.com/Adi2K/CrackNinja">CrackNinja</a></h3>
 <p>A CLI tool for scraping data from <a href="https://crackwatch.com/">CrackWatch</a></p>
-<a href="https://github.com/Adi2K/CrackNinja"><img height="700px" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Projects/CrackNinja.gif" width="700px"></a>&nbsp;&nbsp;
+<a href="https://github.com/Adi2K/CrackNinja"><img height="500px" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Projects/CrackNinja.gif" width="500px"></a>&nbsp;&nbsp;
 </p>
 
 
