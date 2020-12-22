@@ -38,9 +38,9 @@
 <h2 align="center">Project Quick Peek ! </h2>
 
 <p align='center'>
-<a href="https://github.com/Adi2K/CrackNinja">CrackNinja    </a>&nbsp;&nbsp;
+<a href="https://github.com/Adi2K/CrackNinja">CrackNinja</a>&nbsp;&nbsp;
 
-<a href="https://github.com/Adi2K/CrackNinja">    Name 2</a>&nbsp;&nbsp;
+<a href="https://github.com/Adi2K/CrackNinja">Name 2</a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
