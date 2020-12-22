@@ -40,14 +40,12 @@
 <p align='center'>
 CrackNinja
 <a href="https://github.com/Adi2K/CrackNinja">CrackNinja</a>&nbsp;&nbsp;
-CrackNinja
- <a href="https://github.com/Adi2K/CrackNinja">Name 2</a>&nbsp;&nbsp;
- </p>
+<span class="tab"></span>
+<a href="https://github.com/Adi2K/CrackNinja">Name 2</a>&nbsp;&nbsp;
+</p>
 
 <p align='center'>
-CrackNinja
 <a href="https://github.com/Adi2K/CrackNinja"><img height="350px" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Projects/CrackNinja.gif" width="350px"></a>&nbsp;&nbsp;
-CrackNinja
  <a href="https://github.com/Adi2K/CrackNinja"><img height="350px" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Projects/CrackNinja.gif" width="350px"></a>&nbsp;&nbsp;
  </p>
 
