@@ -32,9 +32,6 @@
 
 
 <div align='center' markdown="1">
-
-### My Github Stats
- ![Adi2K's github stats](https://github-readme-stats.vercel.app/api?username=Adi2K&count_private=true)
  <h2 align="center">Bye! अलविदा! Chao! au revoir! さようなら! </h2>
  </div>
  
