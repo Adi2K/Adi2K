@@ -21,20 +21,6 @@
 
 <p>I am an avid gamer (mostly FPS). I usually jam to music in my free time or bingewatch movies or read novels </p>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div align='center' markdown="1">
-<h3>This is how i talk to my PC!</h3>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
- </div>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* **🌱 I’m currently learning** Front-end developement, Competitive Programming
-* **👯 I’m looking to collaborate on** Data Analytics, Web-Scrapping, Simulations(preferably in C++ or Python)
-* **💬 Ask me about** Web-Scrapping, Social Media APIs, basics of Linux!
-* **⚡ Fun fact** Burger King is better than McDonalds ..... Nah! Just kiddin
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <h2 align="center">Project Quick Peek ! </h2>
 
 <p align='left'>
