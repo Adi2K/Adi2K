@@ -1,4 +1,4 @@
-<h1 align="center">Aditya Kadam<img src="https://github.com/Adi2K/Adi2K/blob/main/assets/waving_hand.gif" width="25px"></h1>
+<h1 align="center">Aditya Kadam<img src="https://github.com/Adi2K/Adi2K/blob/main/assets/Fun/waving_hand.gif" width="25px"></h1>
 
 <p align='center'>
  <a href="https://www.instagram.com/adi._kadam/"><img height="35" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Social%20Media/IG.gif" width="35px"></a>&nbsp;&nbsp;
