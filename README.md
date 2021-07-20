@@ -4,6 +4,7 @@
  <a href="https://www.instagram.com/adi._kadam/"><img height="35" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Social%20Media/IG.gif" width="35px"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/_AdityaKadam_"><img height="35" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Social%20Media/Twitter.gif" width="35px"></a>&nbsp;&nbsp;
  <a href="https://www.facebook.com/people/Aditya-Kadam/100053258109957"><img height="35" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Social%20Media/FB.gif" width="35px"></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/kadamadi/"><img height="35" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Social%20Media/Linkedin.gif" width="35px"></a>&nbsp;&nbsp;
 </p>
 <div align='center'>
  
