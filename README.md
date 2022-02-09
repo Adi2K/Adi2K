@@ -14,7 +14,7 @@
 
 <h2 align="center">Hello! नमस्ते! Hola! Bonjur! こんにちは! </h2>
 <h3 align="center">Adi2K here!</h3>
-<p align="left">I am a 3rd Year undergrad student at International Institute Of Information Technology, Hyderabad. I am interested in Machine Learning, Dep Learning , Competitive Programming, CLI Tools development, Systems Design, Database Systems....... I am currently working on some personal projects but feel free to open a Issue if you want to collaborate on any ideas or would be interested in helping out in one of mine. Lets talk !</p>
+<p align="left">I am a 3rd Year undergrad student at International Institute Of Information Technology, Hyderabad. I am interested in Machine Learning, Deep Learning , Competitive Programming, CLI Tools development, Systems Design, Database Systems....... I am currently working on some personal projects but feel free to open a Issue if you want to collaborate on any ideas or would be interested in helping out in one of mine. Lets talk !</p>
 
 <p align='center'>Click to Talk <br>
 <a href="https://github.com/Adi2K/Adi2K/issues/new?assignees=&labels=&template=bounce-your-idea.md&title="><img height="50" src="https://github.com/Adi2K/Adi2K/blob/main/assets/Social%20Media/Lets_Talk.gif"></a>&nbsp;&nbsp;
